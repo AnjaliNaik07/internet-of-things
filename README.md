@@ -20,3 +20,5 @@ https://wokwi.com/projects/335065373269295699<br>
 https://wokwi.com/projects/335068632179540562<br>
 7.ultrasonic senor<br>
 https://wokwi.com/projects/335071381730361939<br>
+8.ultrasonic using buzzer 
+https://wokwi.com/projects/333804661453619796
