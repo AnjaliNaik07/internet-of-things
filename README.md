@@ -22,4 +22,3 @@ Buzzer with  resistor and push button<br>
 https://wokwi.com/projects/335068632179540562<br>
 7.ultrasonic senor<br>
 https://wokwi.com/projects/335071381730361939<br>
-
