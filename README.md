@@ -18,7 +18,7 @@ https://wokwi.com/projects/334978083920544339<br>
 https://wokwi.com/projects/334980717322699348<br>
 6.Buzzer  with resistor<br>
 https://wokwi.com/projects/335065373269295699<br>
-7.Buzzer with  resistor and push button<br>
+7.Buzzer with push button<br>
 https://wokwi.com/projects/335068632179540562<br>
 8.ultrasonic senor<br>
 https://wokwi.com/projects/335071381730361939<br>
