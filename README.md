@@ -6,6 +6,8 @@
 
 1.led program<br>
 https://wokwi.com/projects/333796023666213458<br>
+2.hello world LCD<br>
+https://wokwi.com/projects/334974852517593683<br>
 2.RGB 1 program,<br>
 https://wokwi.com/projects/333800114460033619<br>
 .RGB 2 program<br>
@@ -21,4 +23,4 @@ https://wokwi.com/projects/335068632179540562<br>
 7.ultrasonic senor<br>
 https://wokwi.com/projects/335071381730361939<br>
 8.ultrasonic using buzzer 
-https://wokwi.com/projects/333804661453619796
+https://wokwi.com/projects/333804661453619796<br>
