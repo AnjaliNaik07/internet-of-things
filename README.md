@@ -17,8 +17,7 @@ https://wokwi.com/projects/334978083920544339<br>
 5. potentiometer servo<br>
 https://wokwi.com/projects/334980717322699348<br>
 6.Buzzer  with resistor<br>
-
-
+https://wokwi.com/projects/335608903281672788<br>
 7.Buzzer with push button<br>
 https://wokwi.com/projects/335068632179540562<br>
 8.ultrasonic senor<br>
