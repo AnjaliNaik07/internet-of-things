@@ -24,3 +24,5 @@ https://wokwi.com/projects/335068632179540562<br>
 https://wokwi.com/projects/335071500453282387<br>
 9.ultrasonic using buzzer <br>
 https://wokwi.com/projects/335605272348197460<br>
+10.ultrasonic sensor with buzzer with bulb with beep in 20  inch distance<br>
+https://wokwi.com/projects/335611740136931924<br>
