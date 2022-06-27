@@ -21,5 +21,6 @@ https://wokwi.com/projects/335065373269295699<br>
 7.Buzzer with push button<br>
 https://wokwi.com/projects/335068632179540562<br>
 8.ultrasonic senor<br>
-https://wokwi.com/projects/335071381730361939<br>
+https://wokwi.com/projects/335071500453282387<br>
 9.ultrasonic using buzzer 
+https://wokwi.com/projects/335605272348197460<br>
