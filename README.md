@@ -101,22 +101,22 @@ DONE WITH HARDWAre
 
 
 1. NORMAL LED
-https://wokwi.com/projects/338238862865203794
+https://wokwi.com/projects/338238862865203794<br>
 
 ESP 32
-https://wokwi.com/projects/338239531456135764
+https://wokwi.com/projects/338239531456135764<br>
 
 2. 3 COLOR  LED
-https://wokwi.com/projects/338239027336446546
+https://wokwi.com/projects/338239027336446546 <br>
 
 ESP32
-https://wokwi.com/projects/338239619008037458
+https://wokwi.com/projects/338239619008037458<br>
 
 3.ULTRA SONIC SENSOR  ### esp22 used ####
-https://wokwi.com/projects/338239077744640594
+https://wokwi.com/projects/338239077744640594<br>
 
 4.DHT22(TEMP AND HUMIDITY SENSAR)  #### library shoud be addded  ####
-https://wokwi.com/projects/338239158455632467
+https://wokwi.com/projects/338239158455632467<br>
 
 
 
