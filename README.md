@@ -49,7 +49,7 @@ program 4:  Relay with  aurdino i.e servo motor with button
 https://wokwi.com/projects/337604417075282515
 
 program5: LCD DHT 22
-https://pue.karnataka.gov.in/storage/pdf-files/8tb.pdf
+
 
 
 
@@ -117,5 +117,6 @@ https://wokwi.com/projects/338239077744640594
 
 4.DHT22(TEMP AND HUMIDITY SENSAR)  #### library shoud be addded  ####
 https://wokwi.com/projects/338239158455632467
+
 
 
