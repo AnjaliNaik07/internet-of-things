@@ -103,8 +103,14 @@ DONE WITH HARDWAre
 1. NORMAL LED
 https://wokwi.com/projects/338238862865203794
 
+ESP 32
+https://wokwi.com/projects/338239531456135764
+
 2. 3 COLOR  LED
 https://wokwi.com/projects/338239027336446546
+
+ESP32
+https://wokwi.com/projects/338239619008037458
 
 3.ULTRA SONIC SENSOR  ### esp22 used ####
 https://wokwi.com/projects/338239077744640594
