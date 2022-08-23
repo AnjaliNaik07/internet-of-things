@@ -33,89 +33,89 @@ https://wokwi.com/projects/335701647955067474<br>
 
 
 ##############################################################################################################################################################################################################################################################################################################################################
-According to lab list:
+According to lab list:<br>
 
 
-program:  LED WITH BUZZER
-https://wokwi.com/projects/337603984278684242
+program:  LED WITH BUZZER<br>
+https://wokwi.com/projects/337603984278684242<br>
 
-program: LED WITH PUSH BUTTON
-https://wokwi.com/projects/337604223773442644
+program: LED WITH PUSH BUTTON<br>
+https://wokwi.com/projects/337604223773442644<br>
 
-program: DHT 22 sensor
-https://wokwi.com/projects/337604223773442644
+program: DHT 22 sensor<br>
+https://wokwi.com/projects/337604223773442644<br>
 
-program 4:  Relay with  aurdino i.e servo motor with button
-https://wokwi.com/projects/337604417075282515
+program 4:  Relay with  aurdino i.e servo motor with button<br>
+https://wokwi.com/projects/337604417075282515<br>
 
-program5: LCD DHT 22
-
-
-program 6: 
+program5: LCD DHT 22<br>
 
 
+program 6: <br>
 
-program7 :FMS
-#include "ThingSpeak.h"
-#include <ESP8266WiFi.h>
-const int trigPin1 = D1;
-const int echoPin1 = D2;
-#define redled D3
-#define grnled D4
-//#define BUZZER D5 //buzzer pin
-unsigned long ch_no = 1838852;//Replace with Thingspeak Channel number
-const char * write_api = "B09P3G8RR3PGTIT6";//Replace with Thingspeak write API
-char auth[] = "mwa0000027193634";
-char ssid[] = "m";
-char pass[] = "Csdept@1234";
-unsigned long startMillis;
-unsigned long currentMillis;
-const unsigned long period = 10000;
-WiFiClient  client;
-long duration1;
-int distance1;
-void setup()
-{
-  pinMode(trigPin1, OUTPUT);
-  pinMode(echoPin1, INPUT);
-  pinMode(redled, OUTPUT);
-  pinMode(grnled, OUTPUT);
-  digitalWrite(redled, LOW);
-  digitalWrite(grnled, LOW);
-  Serial.begin(115200);
-  WiFi.begin(ssid, pass);
-  while (WiFi.status() != WL_CONNECTED)
-  {
-    delay(500);
-    Serial.print(".");
-  }
-  Serial.println("WiFi connected");
-  Serial.println(WiFi.localIP());
-  ThingSpeak.begin(client);
-  startMillis = millis();  //initial start time
-}
-void loop()
-{
-  digitalWrite(trigPin1, LOW);
-  delayMicroseconds(2);
-  digitalWrite(trigPin1, HIGH);
-  delayMicroseconds(10);
-  digitalWrite(trigPin1, LOW);
-  duration1 = pulseIn(echoPin1, HIGH);
-  distance1 = duration1 * 0.034 / 2;
-  Serial.println(distance1);
-  delay(1500);
-  if (distance1 <= 10)
-  {
-    digitalWrite(D3, HIGH);
-    //tone(BUZZER, 300);
-    digitalWrite(D4, LOW);
-    delay(1500);
-    //noTone(BUZZER);
-  }
-  else
-  {
-    digitalWrite(D4, HIGH);
+
+
+program7 :FMS<br>
+#include "ThingSpeak.h"<br>
+#include <ESP8266WiFi.h><br>
+const int trigPin1 = D1;<br>
+const int echoPin1 = D2;<br>
+#define redled D3<br>
+#define grnled D4<br>
+//#define BUZZER D5 //buzzer pin<br>
+unsigned long ch_no = 1838852;//Replace with Thingspeak Channel number<br>
+const char * write_api = "B09P3G8RR3PGTIT6";//Replace with Thingspeak write API<br>
+char auth[] = "mwa0000027193634";<br>
+char ssid[] = "m";<br>
+char pass[] = "Csdept@1234";<br>
+unsigned long startMillis;<br>
+unsigned long currentMillis;<br>
+const unsigned long period = 10000;<br>
+WiFiClient  client;<br>
+long duration1;<br>
+int distance1;<br>
+void setup()<br>
+{<br>
+  pinMode(trigPin1, OUTPUT);<br>
+  pinMode(echoPin1, INPUT);<br>
+  pinMode(redled, OUTPUT);<br>
+  pinMode(grnled, OUTPUT);<br>
+  digitalWrite(redled, LOW);<br>
+  digitalWrite(grnled, LOW);<br>
+  Serial.begin(115200);<br>
+  WiFi.begin(ssid, pass);<br>
+  while (WiFi.status() != WL_CONNECTED)<br>
+  {<br>
+    delay(500);<br>
+    Serial.print(".");<br>
+  }<br>
+  Serial.println("WiFi connected");<br>
+  Serial.println(WiFi.localIP());<br>
+  ThingSpeak.begin(client);<br>
+  startMillis = millis();  //initial start time<br>
+}<br>
+void loop()<br>
+{<br>
+  digitalWrite(trigPin1, LOW);<br>
+  delayMicroseconds(2);<br>
+  digitalWrite(trigPin1, HIGH);<br>
+  delayMicroseconds(10);<br>
+  digitalWrite(trigPin1, LOW);<br>
+  duration1 = pulseIn(echoPin1, HIGH);<br>
+  distance1 = duration1 * 0.034 / 2;<br>
+  Serial.println(distance1);<br>
+  delay(1500);<br>
+  if (distance1 <= 10)<br>
+  {<br>
+    digitalWrite(D3, HIGH);<br>
+    //tone(BUZZER, 300);<br>
+    digitalWrite(D4, LOW);<br>
+    delay(1500);<br>
+    //noTone(BUZZER);<br>
+  }<br>
+  else<br>
+  {<br>
+    digitalWrite(D4, HIGH);<br>
     digitalWrite(D3, LOW);
   }
   currentMillis = millis();
@@ -124,7 +124,7 @@ void loop()
     ThingSpeak.setField(1, distance1);
     ThingSpeak.writeFields(ch_no, write_api);
     startMillis = currentMillis;
-  }
+    }<br>
 }
 
 
