@@ -195,31 +195,31 @@ https://wokwi.com/projects/338239077744640594<br>
 4.DHT22(TEMP AND HUMIDITY SENSAR)  #### library shoud be addded  ####<br>
 https://wokwi.com/projects/338239158455632467<br>
 
-
+#############################LAB EXAM PROGRAMS#################################################################################################################
 ###############################################################################################################################################################
-pgm1:LED
-https://wokwi.com/projects/340778755553231444
-pgm2:3LED
-https://wokwi.com/projects/340778833486545490
-pgm3:RGB LED
-https://wokwi.com/projects/340778937020842579
-pgm4:LIQUID CRYSTAL
-https://wokwi.com/projects/340778997511094868
-pgm5:SERVOMOTOR+PUSHBUTTON
-https://wokwi.com/projects/340779126089581140
-pgm6:SERVOMOTOR +SLIDING POTENTIOMETER
-https://wokwi.com/projects/340779191873045074
-pgm7:BUZZER+PUSHBUTTON
-https://wokwi.com/projects/340779285654536788
-pgm8:ULTRASONIC SENSOR+BUZZER
-https://wokwi.com/projects/340779345403445842
-pgm9:POTENTIOMETER+LED
-https://wokwi.com/projects/340779415779672658
-pgm10:DHT22(HUMIDITY SENSOR)
-https://wokwi.com/projects/340779510866641491
-pgm11:LDR
-https://wokwi.com/projects/340779572029030994
-pgm12:LDR+LED
-https://wokwi.com/projects/340779632905159251
-pgm13:LDR_CHASER
-https://wokwi.com/projects/340779679531139667
+pgm1:LED<br>
+https://wokwi.com/projects/340778755553231444<br>
+pgm2:3LED<br>
+https://wokwi.com/projects/340778833486545490<br>
+pgm3:RGB LED<br>
+https://wokwi.com/projects/340778937020842579<br>
+pgm4:LIQUID CRYSTAL<br>
+https://wokwi.com/projects/340778997511094868<br>
+pgm5:SERVOMOTOR+PUSHBUTTON<br>
+https://wokwi.com/projects/340779126089581140<br>
+pgm6:SERVOMOTOR +SLIDING POTENTIOMETER<br>
+https://wokwi.com/projects/340779191873045074<br>
+pgm7:BUZZER+PUSHBUTTON<br>
+https://wokwi.com/projects/340779285654536788<br>
+pgm8:ULTRASONIC SENSOR+BUZZER<br>
+https://wokwi.com/projects/340779345403445842<br>
+pgm9:POTENTIOMETER+LED<br>
+https://wokwi.com/projects/340779415779672658<br>
+pgm10:DHT22(HUMIDITY SENSOR)<br>
+https://wokwi.com/projects/340779510866641491<br>
+pgm11:LDR<br>
+https://wokwi.com/projects/340779572029030994<br>
+pgm12:LDR+LED<br>
+https://wokwi.com/projects/340779632905159251<br>
+pgm13:LDR_CHASER<br>
+https://wokwi.com/projects/340779679531139667<br>
