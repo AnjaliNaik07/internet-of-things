@@ -196,4 +196,30 @@ https://wokwi.com/projects/338239077744640594<br>
 https://wokwi.com/projects/338239158455632467<br>
 
 
-
+###############################################################################################################################################################
+pgm1:LED
+https://wokwi.com/projects/340778755553231444
+pgm2:3LED
+https://wokwi.com/projects/340778833486545490
+pgm3:RGB LED
+https://wokwi.com/projects/340778937020842579
+pgm4:LIQUID CRYSTAL
+https://wokwi.com/projects/340778997511094868
+pgm5:SERVOMOTOR+PUSHBUTTON
+https://wokwi.com/projects/340779126089581140
+pgm6:SERVOMOTOR +SLIDING POTENTIOMETER
+https://wokwi.com/projects/340779191873045074
+pgm7:BUZZER+PUSHBUTTON
+https://wokwi.com/projects/340779285654536788
+pgm8:ULTRASONIC SENSOR+BUZZER
+https://wokwi.com/projects/340779345403445842
+pgm9:POTENTIOMETER+LED
+https://wokwi.com/projects/340779415779672658
+pgm10:DHT22(HUMIDITY SENSOR)
+https://wokwi.com/projects/340779510866641491
+pgm11:LDR
+https://wokwi.com/projects/340779572029030994
+pgm12:LDR+LED
+https://wokwi.com/projects/340779632905159251
+pgm13:LDR_CHASER
+https://wokwi.com/projects/340779679531139667
