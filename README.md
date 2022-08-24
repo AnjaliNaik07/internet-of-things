@@ -222,4 +222,4 @@ https://wokwi.com/projects/340779572029030994<br>
 pgm12:LDR+LED<br>
 https://wokwi.com/projects/340779632905159251<br>
 pgm13:LDR_CHASER<br>
-https://wokwi.com/projects/340779679531139667<br>
+https://wokwi.com/projects/340851944375452244<br>
